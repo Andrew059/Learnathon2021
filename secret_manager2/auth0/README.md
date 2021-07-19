@@ -1,3 +1,26 @@
+Project Description
+
+This is a secret manager (CRUD) written in Javascript, CSS, and HTML using the React framework and Auth0 that allows users to access their secrets without creating a new username and password. The user's interface is a intuitive web app.
+
+
+Features
+
+Intuitive UI
+
+Easy and Secure Authentication
+
+CRUD
+
+High Interactivity
+
+Guaranteed Impenetrable Defense for your Deepest Secrets
+
+
+How It's Built
+
+This application was written in Javascript, CSS, and HTML using the React framework and Auth0.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
