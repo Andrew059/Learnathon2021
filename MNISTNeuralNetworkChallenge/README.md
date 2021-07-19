@@ -1,4 +1,5 @@
 Project Description
+
 This solution to the MNIST Neural Network Challenge was coded using Python (the best language for machine learning and AI) and was fine-tuned by suing the techniques described below.
 
 Features
