@@ -1,3 +1,32 @@
+Project Description
+
+This application made with React is specially designed with Ninja Cats in mind as they are NOT a myth.
+
+
+Features
+
+Ninja Cats
+
+More Ninja Cats
+
+Even More Ninja Cats
+
+Navigation Bar with Products, Services, and Join Us
+
+Card Creator
+
+Logo
+
+Button
+
+High Interactivity
+
+
+How It's Built
+
+This web application was built using React, CSS, HTML, JavaScript, Node.js, and JSON.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
